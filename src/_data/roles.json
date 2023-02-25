@@ -1,0 +1,20 @@
+[
+    { 
+        "name": "superadmin",
+        "description": "Superadmin role has all access to perform all operations on the platform",
+        "slug": "super-admin"
+    },
+
+    {  
+        "name": "admin",
+        "description": "admin has limited access to perform all operations on the platform",
+        "slug": "admin"
+    },
+
+    {
+        "name": "user",
+        "description": "Users on the platform are considered to be first Students. Everyone on the platform has this role",
+        "slug": "user"
+    }
+
+]

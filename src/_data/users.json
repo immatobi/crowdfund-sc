@@ -1,0 +1,17 @@
+[
+	{
+		"firstName": "Super",
+		"lastName": "Administrator",
+		"username": "superadmin",
+		"dp": "no-image.jpg",
+		"phoneNumber": "08000000000",
+		"email": "hello@concreap.com",
+		"password": "#_sonofGod1",
+		"passwordType": "self",
+		"isSuper": true,
+		"isActivated": true,
+		"isAdmin": false,
+		"isUser": true,
+		"isActive": true
+	}
+]
